@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+
+.col-sm-1{
+	display:flex;
+	flex-direction:row;
+	align-content:left;
+}
+.col-sm-2{
+	display:flex;
+	flex-direction:row;
+	align-content:left;
+}
+.col-sm-4{
+	display:flex;
+	flex-direction:row;
+	align-content:left;
+}
+.col-sm-12{
+	display:flex;
+	flex-direction:row;
+	align-content:left;
+}
+img{
+	height:100px;
+	width:100px;
+}
